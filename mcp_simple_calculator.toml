@@ -1,0 +1,7 @@
+[tool.modelcontextprotocol]
+schema_version = "0.1.0"
+
+[[tool.modelcontextprotocol.tools]]
+name = "mcp_simple_calculator"
+type = "python"
+path = "mcp_simple_calculator/app.py"
